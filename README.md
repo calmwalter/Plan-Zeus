@@ -1,4 +1,6 @@
 # Plan-Zeus
+![GitHub repo size](https://img.shields.io/github/repo-size/calmwalter/Plan-Zeus)  ![GitHub last commit](https://img.shields.io/github/last-commit/calmwalter/Plan-Zeus)
+___
 offer materials for CS students in ZSTU
 
 ## An introduction
